@@ -8,4 +8,8 @@
     function sayGoodbye($name){
         echo "Good bye " .$name; 
     }
+
+    function morning($name){
+        echo "Good morning " .$name; 
+    }
 ?>
